@@ -51,6 +51,10 @@ data/demo/       вымышленные демо-документы: регла�
 tests/           офлайн-тесты
 ```
 
+## Автор
+
+Telegram-канал [@sitimlab](https://t.me/sitimlab) · сайт [sitimlab.ru](https://sitimlab.ru/?utm_source=github&utm_medium=profile)
+
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
